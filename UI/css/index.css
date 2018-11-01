@@ -15,3 +15,6 @@ body{
     text-align: center;
     margin-top:1%;
 }
+.container > .wrapper > #description{
+    font-family: 'Courier New', Courier, monospace;
+}
